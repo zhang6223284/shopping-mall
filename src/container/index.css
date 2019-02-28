@@ -1,0 +1,21 @@
+.ant-layout-content {
+  margin: 0 auto
+  
+} 
+
+.wrapper {
+  margin: 0 auto;
+  box-shadow: 0 0 3px 5px #ddd;
+}
+
+.main {
+  min-height: calc(100vh - 64px);
+  flex-direction: initial
+}
+.content {
+  flex: 1;
+  margin: 20px;
+  min-width: 960px;
+  overflow: hidden;
+  min-height: 100vh !important;
+}
